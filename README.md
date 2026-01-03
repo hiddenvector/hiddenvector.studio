@@ -1,2 +1,3 @@
 # hiddenvector.studio
-Hidden Vector website
+
+Static website for Hidden Vector.
